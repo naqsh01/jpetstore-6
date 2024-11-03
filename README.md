@@ -23,11 +23,10 @@ Essentials
 - Adding just a line for testing...
 - Changing to reflect commit [shozab tag]
 - Changing to reflect commit [wesley tag]
-- Changing for June 12 Test [wesley tag2]
+- Changing for November 3rd Test [wesley tag2]
 - Changing to reflect commit [greg tag]
 - At WeWork today [greg]
 - SDP-11797
-- Kicking off CBP workflow
   
 ## Run on Application Server
 Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://codehaus-cargo.github.io/cargo/Maven2+plugin.html)).
