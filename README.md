@@ -29,6 +29,7 @@ Essentials
 - SDP-11797
 - Updated for a for a demo [shozab tag1]
 - - Updated for a for a demo [shozab tag1]
+- Changing to reflect commit [wes_tag]
   
 ## Run on Application Server
 Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://codehaus-cargo.github.io/cargo/Maven2+plugin.html)).
